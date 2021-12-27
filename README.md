@@ -1,5 +1,5 @@
 # FigmaWebDesign
 ## Layout 1
-![](images/1.jfif)
-## Layout 1
-![](images/1.jfif)
+![](First Layout_page-0001.jpg)
+## Layout 2
+![](First Layout_page-0002.jpg)
