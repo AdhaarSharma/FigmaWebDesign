@@ -1,5 +1,5 @@
 # FigmaWebDesign
 ## Layout 1
-![](First Layout_page-0001.jpg)
+![alt text](https://github.com/AdhaarSharma/FigmaWebDesign/blob/main/First%20Layout_page-0002.jpg)
 ## Layout 2
-![](First Layout_page-0002.jpg)
+![alt text](https://github.com/AdhaarSharma/FigmaWebDesign/blob/main/First%20Layout_page-0001.jpg)
